@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Talha Ahsan</h1>
 <h3 align="center">An enthusiastic app developer hailing from the vibrant tech landscape of Pakistan."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaahsansh&label=Profile%20views&color=0e75b6&style=flat" alt="talhaahsansh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaahsansh&label=Profile%20views&color=0c0c0c&style=flat" alt="talhaahsansh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaahsansh" alt="talhaahsansh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/talha82/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talha82/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/talhaahsanshiekh723/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/talhaahsanshiekh723/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/talha82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talha82" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/talhaahsanshiekh723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="talhaahsanshiekh723" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaahsansh&show_icons=true&locale=en&layout=compact" alt="talhaahsansh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaahsansh&show_icons=true&locale=en" alt="talhaahsansh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaahsansh&" alt="talhaahsansh" /></p>
