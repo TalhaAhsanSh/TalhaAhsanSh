@@ -1,5 +1,5 @@
-# 💫 About Me:
- Hi there 👋 I'm Talha Ahsan!<br><br>🚀 A Backend Developer who loves clean architecture, scalable systems, and making servers do smart things with AI.<br><br>🧠 Currently building cool stuff with:<br>- 🛠️ Node.js, Express, TypeScript, MongoDB/PostgreSQL<br>- 🧬 NLP & AI (Transformers, Cosine Similarity, Text Analysis)<br>- 📊 Data visualizations and insight generation<br><br>🎯 Passionate about:<br>- Turning raw text into meaningful insights ✨<br>- Writing APIs that just *work* 💡<br>- Solving real-world problems using AI & NLP 🤖<br><br>
+#  Hi there 👋 I'm Talha Ahsan!
+## 🚀 A Backend Developer who loves clean architecture, scalable systems, and making servers do smart things with AI.<br><br>🧠 Currently building cool stuff with:<br>- 🛠️ Node.js, Express, TypeScript, MongoDB/PostgreSQL<br>- 🧬 NLP & AI (Transformers, Cosine Similarity, Text Analysis)<br>- 📊 Data visualizations and insight generation<br><br>🎯 Passionate about:<br>- Turning raw text into meaningful insights ✨<br>- Writing APIs that just *work* 💡<br>- Solving real-world problems using AI & NLP 🤖<br><br>
 
 
 ## 🌐 Socials:
