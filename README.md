@@ -6,8 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha82) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@talhaahsanshiekh723)
 [![Static Badge](https://img.shields.io/badge/DevCommunity-12100E)](https://dev.to/talhaahsan)
-
-
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talhaahsanshiekh723@gmail.com) 
 
 # 💻 Tech Stack:
